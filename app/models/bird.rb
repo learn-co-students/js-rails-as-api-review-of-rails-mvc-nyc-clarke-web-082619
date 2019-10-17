@@ -1,1 +1,3 @@
-# Add code from Readme
+# Add code from Rea
+class Bird < ApplicationRecord
+end
